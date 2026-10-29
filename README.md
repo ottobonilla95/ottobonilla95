@@ -18,7 +18,14 @@ My focus is **AI agents, the infrastructure behind them, and applications people
 ### Tools I build with
 
 <p>
-  <img src="assets/stack.svg" alt="Python · TypeScript · React · Next.js · PyTorch · Go · Docker · Kubernetes" width="100%" />
+  <img alt="Python" src="assets/badges/python.svg" height="28" />
+  <img alt="TypeScript" src="assets/badges/typescript.svg" height="28" />
+  <img alt="React" src="assets/badges/react.svg" height="28" />
+  <img alt="Next.js" src="assets/badges/nextdotjs.svg" height="28" />
+  <img alt="PyTorch" src="assets/badges/pytorch.svg" height="28" />
+  <img alt="Go" src="assets/badges/go.svg" height="28" />
+  <img alt="Docker" src="assets/badges/docker.svg" height="28" />
+  <img alt="Kubernetes" src="assets/badges/kubernetes.svg" height="28" />
 </p>
 
 ### Selected builds & experiments
