@@ -1,29 +1,73 @@
 ### Hey, I'm Otto 👋
 
-Software & AI engineer with **9+ years building full-stack software**. I work for a **San Francisco company** and build from wherever I land. 🌍
+**Senior Software & AI Engineer · AI Agent Platforms & Cloud Infrastructure**
 
-My focus is **AI agents, the infrastructure behind them, and applications people can use**. Outside that, you'll find me fine-tuning models, exploring reinforcement learning, or turning a fly's neural activity into sound.
+I build **AI agent platforms and cloud infrastructure** for **[Daedalus Design Labs](https://www.linkedin.com/company/100845750/), a San Francisco company**. My work spans the applications people use, the agent systems behind them, and the infrastructure that runs them.
 
-🛡️ **Currently studying cybersecurity**, with a growing interest in how security and agent systems intersect.
+I own **application architecture, infrastructure, and deployments**, working with **AWS / Amazon EKS, Kubernetes, Terraform, and Helm**, alongside **Python / FastAPI** services and **React / Next.js** applications.
+
+**9+ years building software**, including Technical Team Lead at **DEPT®** and Technical Lead at **Agnitu**. I combine hands-on engineering with product decisions, client collaboration, and mentoring engineers.
+
+🌍 Working remotely and building from wherever I land.<br>
+🛡️ Currently studying **cybersecurity**, with an interest in security for AI agent systems.
 
 <p>
   <a href="https://github.com/ottobonilla95?tab=repositories"><img alt="Explore my projects" src="assets/projects-button.svg" /></a>
+  <a href="https://www.linkedin.com/in/otto-bonilla-93a786119/"><img alt="LinkedIn" src="assets/linkedin-button.svg" /></a>
 </p>
+
+### What I work on
+
+| Area | Focus |
+| --- | --- |
+| **AI & agent platforms** | Agent creation and deployment, orchestration, tool calling, MCP, RAG, LangChain, and LLM evaluation |
+| **Cloud & infrastructure** | AWS, Amazon EKS, Kubernetes, Terraform, Helm, Docker, and CI/CD |
+| **Architecture & delivery** | Application architecture, distributed systems, end-to-end product delivery, stakeholder demos, and technical mentoring |
 
 ### Tools I build with
 
+**AI & backend**
+
 <p>
   <img alt="Python" src="assets/badges/python.svg" height="28" />
+  <img alt="FastAPI" src="assets/badges/fastapi.svg" height="28" />
+  <img alt="LangChain" src="assets/badges/langchain.svg" height="28" />
+  <img alt="MCP" src="assets/badges/mcp.svg" height="28" />
+  <img alt="RAG" src="assets/badges/rag.svg" height="28" />
+</p>
+
+**Cloud & infrastructure**
+
+<p>
+  <img alt="AWS" src="assets/badges/aws.svg" height="28" />
+  <img alt="Amazon EKS" src="assets/badges/eks.svg" height="28" />
+  <img alt="Kubernetes" src="assets/badges/kubernetes.svg" height="28" />
+  <img alt="Terraform" src="assets/badges/terraform.svg" height="28" />
+  <img alt="Helm" src="assets/badges/helm.svg" height="28" />
+  <img alt="Docker" src="assets/badges/docker.svg" height="28" />
+</p>
+
+**Full-stack applications**
+
+<p>
   <img alt="TypeScript" src="assets/badges/typescript.svg" height="28" />
   <img alt="React" src="assets/badges/react.svg" height="28" />
   <img alt="Next.js" src="assets/badges/nextdotjs.svg" height="28" />
-  <img alt="PyTorch" src="assets/badges/pytorch.svg" height="28" />
-  <img alt="Go" src="assets/badges/go.svg" height="28" />
-  <img alt="Docker" src="assets/badges/docker.svg" height="28" />
-  <img alt="Kubernetes" src="assets/badges/kubernetes.svg" height="28" />
+  <img alt="Node.js" src="assets/badges/nodedotjs.svg" height="28" />
+  <img alt="PostgreSQL" src="assets/badges/postgresql.svg" height="28" />
 </p>
 
-### Selected builds & experiments
+<details>
+<summary>More of my engineering background</summary>
+
+- **Services & integrations:** REST APIs, GraphQL, tRPC, RabbitMQ, Amazon SQS, Flask, C# / .NET Core.
+- **Data & cloud:** PostgreSQL, SQL Server, MongoDB, Amazon S3 / RDS / ECS, and Google Cloud Platform.
+- **Product engineering:** React Native, payments and Stripe integrations, CI/CD, Jenkins, Jest, and observability.
+- **Architecture & leadership:** System design, technical delivery, product development, mentoring, and leading engineering teams.
+
+</details>
+
+### Independent builds & experiments
 
 #### 🧠 [Fly Brain Simulator](https://github.com/ottobonilla95/fly-brain-simulator)
 
