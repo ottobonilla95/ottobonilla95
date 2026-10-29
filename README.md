@@ -2,9 +2,9 @@
 
 **Senior Software & AI Engineer · AI Agent Platforms & Cloud Infrastructure**
 
-I build **AI agent platforms and cloud infrastructure** for **[Daedalus Design Labs](https://www.linkedin.com/company/100845750/), a San Francisco company**. My work spans the applications people use, the agent systems behind them, and the infrastructure that runs them.
+I work for a **San Francisco company**, building **AI agent platforms, cloud infrastructure, and full-stack products**.
 
-I own **application architecture, infrastructure, and deployments**, working with **AWS / Amazon EKS, Kubernetes, Terraform, and Helm**, connecting **agent orchestration, backend services, and full-stack applications** into production systems.
+I take systems **from architecture to production**: agent orchestration, tool calling, backend services, and Kubernetes deployments. My work connects **Python and TypeScript** applications with **AWS / EKS, Terraform, and Helm**.
 
 **9+ years building software**, including Technical Team Lead at **DEPT®** and Technical Lead at **Agnitu**. I combine hands-on engineering with product decisions, client collaboration, and mentoring engineers.
 
