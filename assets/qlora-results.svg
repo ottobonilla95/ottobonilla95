@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-labelledby="title desc">
+  <title id="title">Dolphin QLoRA — intent classification accuracy</title>
+  <desc id="desc">On 297 evaluation cases, the base model scored 70.71%, adapter 001 scored 54.21%, and the selected adapter 002 scored 88.89%. Single study; not a general capability benchmark.</desc>
+  <rect x=".5" y=".5" width="999" height="329" rx="14" fill="#0F1713" stroke="#2D3B32"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+    <text x="32" y="40" fill="#B7ED8D" font-size="12" font-weight="600" letter-spacing="2">EXPERIMENT / DOLPHIN 8B + QLoRA</text>
+    <text x="32" y="77" fill="#EDF2E9" font-size="25" font-weight="600">Measure. Diagnose. Try again.</text>
+    <text x="32" y="102" fill="#9DACA1" font-size="13">Intent classification accuracy · same 297 evaluation cases</text>
+    <g stroke="#2A382F" stroke-dasharray="3 5"><path d="M249 123V267M409 123V267M569 123V267M729 123V267M889 123V267"/></g>
+    <g fill="#718477" font-size="11"><text x="249" y="283" text-anchor="middle">0%</text><text x="409" y="283" text-anchor="middle">25%</text><text x="569" y="283" text-anchor="middle">50%</text><text x="729" y="283" text-anchor="middle">75%</text><text x="889" y="283" text-anchor="middle">100%</text></g>
+    <g fill="#D5DFD5" font-size="14"><text x="32" y="151">Base model</text><text x="32" y="203">Adapter 001</text><text x="32" y="255">Adapter 002 · selected</text></g>
+    <rect x="249" y="133" width="452.544" height="27" rx="4" fill="#6B8C81"/>
+    <rect x="249" y="185" width="346.944" height="27" rx="4" fill="#BE997B"/>
+    <rect x="249" y="237" width="568.896" height="27" rx="4" fill="#B7ED8D"/>
+    <g font-size="14" font-weight="600"><text x="713" y="151" fill="#D5DFD5">70.71%</text><text x="608" y="203" fill="#D5DFD5">54.21%</text><text x="830" y="255" fill="#B7ED8D">88.89%</text></g>
+    <text x="32" y="312" fill="#8EA092" font-size="11">Single study · generated-answer evaluation · see repository for methodology and limitations</text>
+  </g>
+</svg>
