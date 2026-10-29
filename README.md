@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="Otto Joseph — Software, AI and agents. Building useful AI. Exploring strange ideas." width="100%" />
-</p>
-
 ### Hey, I'm Otto 👋
 
 Software & AI engineer with **9+ years building full-stack software**. I work for a **San Francisco company** and build from wherever I land. 🌍
@@ -12,7 +8,6 @@ My focus is **AI agents, the infrastructure behind them, and applications people
 
 <p>
   <a href="https://github.com/ottobonilla95?tab=repositories"><img alt="Explore my projects" src="assets/projects-button.svg" /></a>
-  <a href="https://jobscoutai-phi.vercel.app"><img alt="Try JobScout AI" src="assets/jobscout-button.svg" /></a>
 </p>
 
 ### Tools I build with
@@ -29,15 +24,6 @@ My focus is **AI agents, the infrastructure behind them, and applications people
 </p>
 
 ### Selected builds & experiments
-
-#### 🔎 [JobScout AI](https://github.com/ottobonilla95/jobscoutai)
-
-AI-powered job discovery, CV matching, role research, and application tracking. A working application connecting AI with scheduled workflows.
-
-**TypeScript · Next.js · PostgreSQL · AI workflows**  
-[Open the app ↗](https://jobscoutai-phi.vercel.app) · [Explore the code ↗](https://github.com/ottobonilla95/jobscoutai)
-
----
 
 #### 🧠 [Fly Brain Simulator](https://github.com/ottobonilla95/fly-brain-simulator)
 
