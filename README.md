@@ -84,7 +84,7 @@ I take systems **from architecture to production**: agent orchestration, tool ca
 
 A browser-based musical instrument driven by a connectome-based fly neural simulation. **166,700 neurons, 25.1 million connections**, and a small interactive world that turns neural activity into sound.
 
-[![Fly Brain Simulator — an interactive 3D chamber and neural musical instrument](assets/fly-brain.jpg)](https://github.com/ottobonilla95/fly-brain-simulator)
+[![Fly Brain Simulator — current 3D chamber with visual, smell, and sound sources and live simulation controls](assets/fly-brain-chamber.jpg)](https://github.com/ottobonilla95/fly-brain-simulator)
 
 **TypeScript · React · Three.js · Web Audio**  
 [Explore the experiment ↗](https://github.com/ottobonilla95/fly-brain-simulator)
@@ -95,7 +95,7 @@ A browser-based musical instrument driven by a connectome-based fly neural simul
 
 Fine-tuning an 8B model on Apple Silicon for customer-support intent classification. The first adapter regressed; a lower learning rate and validation-based checkpoint selection brought accuracy to **88.89% across 297 evaluation cases**.
 
-[![Dolphin QLoRA intent classification accuracy: base 70.71%, first adapter 54.21%, selected follow-up adapter 88.89%.](assets/qlora-results.svg)](https://github.com/ottobonilla95/dolphin-qlora/blob/main/EXPERIMENT.md)
+[![Dolphin QLoRA intent classification accuracy: base 70.71%, first adapter 54.21%, selected follow-up adapter 88.89%.](assets/qlora-results.png)](https://github.com/ottobonilla95/dolphin-qlora/blob/main/EXPERIMENT.md)
 
 **Python · MLX · QLoRA · Evaluation**  
 [Read the findings and limitations ↗](https://github.com/ottobonilla95/dolphin-qlora/blob/main/EXPERIMENT.md)
