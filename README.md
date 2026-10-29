@@ -4,7 +4,7 @@
 
 I build **AI agent platforms and cloud infrastructure** for **[Daedalus Design Labs](https://www.linkedin.com/company/100845750/), a San Francisco company**. My work spans the applications people use, the agent systems behind them, and the infrastructure that runs them.
 
-I own **application architecture, infrastructure, and deployments**, working with **AWS / Amazon EKS, Kubernetes, Terraform, and Helm**, alongside **Python / FastAPI** services and **React / Next.js** applications.
+I own **application architecture, infrastructure, and deployments**, working with **AWS / Amazon EKS, Kubernetes, Terraform, and Helm**, connecting **agent orchestration, backend services, and full-stack applications** into production systems.
 
 **9+ years building software**, including Technical Team Lead at **DEPT®** and Technical Lead at **Agnitu**. I combine hands-on engineering with product decisions, client collaboration, and mentoring engineers.
 
@@ -24,19 +24,20 @@ I own **application architecture, infrastructure, and deployments**, working wit
 | **Cloud & infrastructure** | AWS, Amazon EKS, Kubernetes, Terraform, Helm, Docker, and CI/CD |
 | **Architecture & delivery** | Application architecture, distributed systems, end-to-end product delivery, stakeholder demos, and technical mentoring |
 
-### Tools I build with
+### Core expertise
 
-**AI & backend**
+**AI & agent engineering**
 
 <p>
   <img alt="Python" src="assets/badges/python.svg" height="28" />
-  <img alt="FastAPI" src="assets/badges/fastapi.svg" height="28" />
-  <img alt="LangChain" src="assets/badges/langchain.svg" height="28" />
+  <img alt="LLMs" src="assets/badges/llms.svg" height="28" />
+  <img alt="Agent orchestration" src="assets/badges/orchestration.svg" height="28" />
   <img alt="MCP" src="assets/badges/mcp.svg" height="28" />
   <img alt="RAG" src="assets/badges/rag.svg" height="28" />
+  <img alt="LangChain" src="assets/badges/langchain.svg" height="28" />
 </p>
 
-**Cloud & infrastructure**
+**Cloud & platform engineering**
 
 <p>
   <img alt="AWS" src="assets/badges/aws.svg" height="28" />
@@ -45,22 +46,32 @@ I own **application architecture, infrastructure, and deployments**, working wit
   <img alt="Terraform" src="assets/badges/terraform.svg" height="28" />
   <img alt="Helm" src="assets/badges/helm.svg" height="28" />
   <img alt="Docker" src="assets/badges/docker.svg" height="28" />
+  <img alt="CI/CD" src="assets/badges/cicd.svg" height="28" />
 </p>
 
-**Full-stack applications**
+**Full-stack & product engineering**
 
 <p>
   <img alt="TypeScript" src="assets/badges/typescript.svg" height="28" />
   <img alt="React" src="assets/badges/react.svg" height="28" />
   <img alt="Next.js" src="assets/badges/nextdotjs.svg" height="28" />
   <img alt="Node.js" src="assets/badges/nodedotjs.svg" height="28" />
+  <img alt="GraphQL" src="assets/badges/graphql.svg" height="28" />
   <img alt="PostgreSQL" src="assets/badges/postgresql.svg" height="28" />
+</p>
+
+**Architecture & technical leadership**
+
+<p>
+  <img alt="System design" src="assets/badges/systemdesign.svg" height="28" />
+  <img alt="Distributed systems" src="assets/badges/distributedsystems.svg" height="28" />
+  <img alt="Technical leadership" src="assets/badges/leadership.svg" height="28" />
 </p>
 
 <details>
 <summary>More of my engineering background</summary>
 
-- **Services & integrations:** REST APIs, GraphQL, tRPC, RabbitMQ, Amazon SQS, Flask, C# / .NET Core.
+- **Services & integrations:** REST APIs, FastAPI, Flask, tRPC, RabbitMQ, Amazon SQS, and C# / .NET Core.
 - **Data & cloud:** PostgreSQL, SQL Server, MongoDB, Amazon S3 / RDS / ECS, and Google Cloud Platform.
 - **Product engineering:** React Native, payments and Stripe integrations, CI/CD, Jenkins, Jest, and observability.
 - **Architecture & leadership:** System design, technical delivery, product development, mentoring, and leading engineering teams.
